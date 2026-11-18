@@ -1,0 +1,5 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+1,1,1,1,1,1,0,0,20250504,20250830
+2,0,0,0,0,0,1,0,20250504,20250830
+3,0,0,0,0,0,0,1,20250504,20250830
+7,0,0,0,0,0,0,0,20250504,20250830
